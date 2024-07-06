@@ -1,6 +1,6 @@
 ## What I'm working on in my personal time
 
-### Applications
+### Web Applications
 - Cost of speeding calculator
   - Influence teenagers to slow down
 - Food storage digital twin
@@ -12,6 +12,8 @@
   - Homework grading
 - Administration of personal applications
 - Children's chore list with proof-of-completion
+
+Some applications will have two subdomains: React and Angular. One standard, two implementations.
 
 ### Skills
 
@@ -48,6 +50,18 @@
 #### Containerization and Deployment
 - Docker & Docker Compose
 - Local machine -> Gitlab -> AWS
+
+#### User Experience Research
+- Requirements gathering
+- User interviews
+- Task analysis
+- Journey mapping
+- User stories
+- In-Person usability study
+- Accessibility evaluations
+- Test instructions / help docs
+- Analytics Review
+- Survey
 
 <!--
 **kniesz/kniesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
