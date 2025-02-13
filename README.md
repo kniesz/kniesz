@@ -1,5 +1,3 @@
-## What I'm working on in my personal time
-
 ### Web Applications
 - Cost of speeding calculator
   - Influence teenagers to slow down
@@ -13,8 +11,6 @@
 - Administration of personal applications
 - Children's chore list with proof-of-completion
 
-Some applications will have two subdomains: React and Angular. One standard, two implementations.
-
 ### Skills
 
 #### Web Development
@@ -24,7 +20,10 @@ Some applications will have two subdomains: React and Angular. One standard, two
 #### Primary languages
 - TypeScript
 - Go
+
+#### Secondary languages
 - C#/.NET
+- Python
 
 #### Software Design and Systems
 - Designing software systems from scratch
@@ -63,17 +62,11 @@ Some applications will have two subdomains: React and Angular. One standard, two
 - Analytics Review
 - Survey
 
-<!--
-**kniesz/kniesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Applications
+- Home Site (React, Material UI)
+- Tango November (Angular, Angular Material)
+- Chores (React, Material UI)
+- Admin Page (React, Material UI)
+- Digital Food Storage (React, Material UI)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These applications are built using React 19.x, Angular 19.x, TypeScript, Material UI v6, Angular Material, React Query, RxJS, and Zod. The infrastructure is managed with Docker, Docker Compose, and GitLab CI/CD, deployed on Node.js.
