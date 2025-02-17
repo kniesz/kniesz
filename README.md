@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains a collection of personal projects aimed at exploring modern web development technologies and infrastructure-as-code solutions. The projects showcase a variety of skills, including React, Angular, TypeScript, and AWS CDK. Please note that the code within these projects is experimental and may not be consistently consistent, as it reflects ongoing exploration of different architectural patterns and development techniques.
+This repository contains a collection of personal projects aimed at exploring modern web development technologies and infrastructure-as-code solutions. The projects showcase a variety of skills, including React, Angular, TypeScript, AWS CDK, testing, benchmarking, and security compliance techniques. Please note that the code within these projects is experimental and may not be consistently consistent, as it reflects ongoing exploration of different architectural patterns and development techniques. There will be bugs (intentional) and sub-optimal imlementations. I learn by seeing and experiencing "why" things do not work so that I can build out my intuition and mental models.
 
 ### Web Applications
 - Cost of speeding calculator
